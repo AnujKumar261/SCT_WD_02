@@ -1,4 +1,3 @@
-// script.js
 let time = 0;
 let interval = null;
 let isRunning = false;
